@@ -1,0 +1,52 @@
+@options
+@argfile
+--class-path
+'C:/wkUdemy/mavenWk/dependenciasTransitivas_Documentacion/target/classes;C:/Users/oscar.j.yataco.luya/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar;C:/Users/oscar.j.yataco.luya/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar;C:/Users/oscar.j.yataco.luya/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/wkUdemy/mavenWk/dependenciasTransitivas_Documentacion/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/wkUdemy/mavenWk/dependenciasTransitivas_Documentacion/target/site/fr/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'dependencias.transitivas 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'dependencias.transitivas 1.0-SNAPSHOT API'
+'C:/wkUdemy/mavenWk/dependenciasTransitivas_Documentacion/src/main/java/pruebaJavadoc.java'
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\src\main\java\pruebaJavadoc.java = 1666000507167
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\src\main\java = 1666000507168
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\allclasses-index.html = 1666000549914
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\allpackages-index.html = 1666000549918
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\copy.svg = 1666000549952
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\element-list = 1666000549873
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\help-doc.html = 1666000549943
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\index-all.html = 1666000549933
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\index.html = 1666000549938
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\jquery-ui.overrides.css = 1666000549968
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\member-search-index.js = 1666000549925
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\module-search-index.js = 1666000549919
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\overview-tree.html = 1666000549902
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\package-search-index.js = 1666000549922
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\package-summary.html = 1666000549880
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\package-tree.html = 1666000549885
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\package-use.html = 1666000549898
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\pruebaJavadoc.html = 1666000549871
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\script.js = 1666000549950
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\search-page.js = 1666000549957
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\search.html = 1666000549936
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\search.js = 1666000549955
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\stylesheet.css = 1666000549947
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\tag-search-index.js = 1666000549926
+C:\wkUdemy\mavenWk\dependenciasTransitivas_Documentacion\target\site\fr\apidocs\type-search-index.js = 1666000549924
